@@ -1,10 +1,10 @@
-import { combineReducers } from "redux";
-import filtersReducer from "../components/Filters/FiltersSlice";
-import todoListReducer from "../components/Todolist/TodoSlice";
+// import { combineReducers } from "redux";
+// import filtersReducer from "../components/Filters/FiltersSlice";
+// import todoListReducer from "../components/Todolist/TodoSlice";
 
-const rootReducer = combineReducers({
-  filters: filtersReducer,
-  todoList: todoListReducer,
-});
+// const rootReducer = combineReducers({
+//   filters: filtersReducer,
+//   todoList: todoListReducer,
+// });
 
-export default rootReducer;
+// export default rootReducer;
